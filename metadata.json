@@ -1,0 +1,6 @@
+{
+  "name": "TKA SMART EXAM MI/SD",
+  "description": "Aplikasi Ujian Tes Kemampuan Akademik (TKA) Berbasis Web untuk Siswa Kelas VI MI PSM PARON / SD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
